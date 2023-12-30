@@ -22,5 +22,5 @@ This simple Flask web application focuses on user registration, authentication, 
 
 ## Preview
 
-[Security_Pic](https://github.com/huynguyen2703/User-Registration-/assets/105887799/281482be-0957-4ce6-8d66-3b33a6a73abe)
+![Security Image](https://github.com/huynguyen2703/User-Registration-/assets/105887799/281482be-0957-4ce6-8d66-3b33a6a73abe)
 
