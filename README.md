@@ -22,4 +22,4 @@ This simple Flask web application focuses on user registration, authentication, 
 
 ## Preview
 
-![Uploading image.png…]()
+![Security Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40grow4gaurav%2Fmobile-apps-secure-coding-practices-9f52119f8704&psig=AOvVaw1OJnYzCjxHW24MPt-NFYWl&ust=1704018882583000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCR2pT7toMDFQAAAAAdAAAAABAD)
