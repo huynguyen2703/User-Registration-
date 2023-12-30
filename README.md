@@ -1,4 +1,4 @@
-# User-Registration-
+# User-Registration
 A Python project that focuses on securing user credential and security for website
 
 # Secure Flask Web Application
@@ -22,5 +22,5 @@ This simple Flask web application focuses on user registration, authentication, 
 
 ## Preview
 
-![Security Image]()![Security_Pic](https://github.com/huynguyen2703/User-Registration-/assets/105887799/281482be-0957-4ce6-8d66-3b33a6a73abe)
+[Security_Pic](https://github.com/huynguyen2703/User-Registration-/assets/105887799/281482be-0957-4ce6-8d66-3b33a6a73abe)
 
